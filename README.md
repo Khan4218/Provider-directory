@@ -5,7 +5,9 @@ This is a simple React app built using Vite. It shows a list of learning support
 Right now, the app includes:
 - A homepage that lists providers
 - A search bar to filter by name or specialization
-- Each provider card shows basic info and a "View Details" link (routing set up, detail page coming soon)
+- Each provider card shows basic info and a "View Details" link
+- detail page for each provider
+- 404 error handling for unknown routes
 
 ## 🚀 Tech Stack
 
@@ -21,7 +23,9 @@ src/
 ├── data/
 │   └── providers.json
 ├── pages/
-│   └── ProviderList.jsx
+│ ├── ProviderList.jsx
+│ ├── ProviderDetail.jsx
+│ └── NotFound.jsx
 ├── App.css
 ├── App.jsx
 ├── index.css
@@ -29,23 +33,24 @@ src/
 
 
 ## ✅ Completed
-Vite + React setup
+- Vite + React setup
 
-Routing with React Router DOM
+- Routing with React Router DOM
 
-Provider list page
+- Provider list page
 
-Search functionality
+- Search functionality
 
-Basic responsive CSS layout
+- Basic responsive CSS layout
 
-Provider Detail page (/providers/:id) with full information and error handling
+- Provider Detail page (/providers/:id) with full information and error handling
+
+- 404 NotFound page with fallback routing
 
 ## 📌 Upcoming
 
-404 handling
-
-Polishing UI (spacing, mobile view, etc.)
+- Deploy live project (Netlify)
+- Final UI polish (padding, spacing)
 
 
 ## 🛠 Setup Instructions
