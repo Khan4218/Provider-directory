@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Bright Minds",
+    "specialization": "Dyslexia Support",
+    "location": "Mumbai",
+    "rating": 4,
+    "shortDescription": "Helping kids with reading difficulties.",
+    "longDescription": "Bright Minds specializes in tailored reading programs for children with dyslexia.",
+    "contactEmail": "info@brightminds.com",
+    "phoneNumber": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Focus First",
+    "specialization": "ADHD Coaching",
+    "location": "Delhi",
+    "rating": 5,
+    "shortDescription": "Structured attention improvement coaching.",
+    "longDescription": "Focus First helps children with ADHD improve attention span and behavior.",
+    "contactEmail": "hello@focusfirst.org",
+    "phoneNumber": "9123456780"
+  }
+]
