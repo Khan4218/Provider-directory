@@ -49,7 +49,7 @@ src/
 
 ## 📌 Upcoming
 
-- Deploy live project (Netlify)
+- Deploy live project [(Netlify)](https://mir-provider-app.netlify.app/)
 - Final UI polish (padding, spacing)
 
 
