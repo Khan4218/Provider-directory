@@ -39,8 +39,9 @@ Search functionality
 
 Basic responsive CSS layout
 
+Provider Detail page (/providers/:id) with full information and error handling
+
 ## 📌 Upcoming
-Provider Detail page (/providers/:id)
 
 404 handling
 
