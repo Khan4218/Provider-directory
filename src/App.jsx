@@ -1,5 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ProviderList from './pages/ProviderList';
+import './App.css';
+
 
 function App() {
   return (
